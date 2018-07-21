@@ -1,0 +1,30 @@
+button{
+  border: none;
+  padding: 10px 40px;
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size: 20px;
+  background-color: #4dd0e1;
+}
+
+button:hover {
+  background-color: #00897b;
+  color: white;
+}
+
+.container{
+  text-align: center;
+}
+
+.intro{
+	color: white;
+	font-size: 19px;
+	margin-bottom:10vh;
+}
+
+.row{
+  padding: 30px 0px;
+}
+
+#dados{
+  text-align: left;
+}
