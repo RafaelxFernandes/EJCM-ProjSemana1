@@ -4,6 +4,7 @@ button{
   font-family: 'Archivo Narrow', sans-serif;
   font-size: 20px;
   background-color: #4dd0e1;
+  border-radius: 15px;
 }
 
 button:hover {
@@ -11,6 +12,11 @@ button:hover {
   color: white;
 }
 
+.intro{
+  color: white;
+  font-size: 25px;
+  margin-bottom:10vh;
+}
 .container{
   text-align: center;
 }

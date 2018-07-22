@@ -2,12 +2,20 @@ h3{
 	font-family: 'Abel', sans-serif;
 }
 
-
-.row{
+p{
 	font-size: 17px;
-	font-family: 'Lato', sans-serif;
+}
+
+.up-text{
+	color: white;
+	text-align: left;
 }
 
 .intro{
 	color: white;
+}
+
+.row{
+	font-size: 17px;
+	font-family: 'Lato', sans-serif;
 }
